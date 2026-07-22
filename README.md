@@ -1,6 +1,6 @@
 # Hi, I'm Niharika 👋
 
-**AI Automation • Technical Operations • Site Reliabilty Engineer • Cloud & DevOps**
+**Software Engineer •Devops & Cloud Infrastructure •Cloud & AI Automation**
 
 I'm a Software Engineer working on deployment pipelines and infrastructure reliability, with a growing interest in cloud-native systems and AI-driven automation. I like taking things from "it works on my machine" to "it works everywhere, every time" - building out CI/CD, containerization, and monitoring along the way.
 
